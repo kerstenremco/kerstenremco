@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Remco Kersten</h1>
 <h3 align="center">🇳🇱 From the Netherlands. Interested in networking, security and DevOps.</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kerstenremco&show_icons=true&locale=en" alt="kerstenremco" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kerstenremco&show_icons=true&locale=en" alt="kerstenremco" /></p><br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerstenremco&show_icons=true&locale=en&layout=compact" alt="kerstenremco" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerstenremco&show_icons=true&locale=en&layout=compact" alt="kerstenremco" /></p><br />
 
 
 
